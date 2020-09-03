@@ -1,4 +1,0 @@
-#ifndef MYLISTWIDGET_H
-#define MYLISTWIDGET_H
-
-#endif // MYLISTWIDGET_H
